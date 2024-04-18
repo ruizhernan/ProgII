@@ -1,6 +1,6 @@
 '''
 Grupo 1
-Integrantes: Gianluca Carlini-Javier Artale-
+Integrantes: Gianluca Carlini-Javier Artale- Ruiz Hernan - 
 
 '''
 #Ejercicio 2

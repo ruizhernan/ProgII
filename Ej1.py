@@ -1,6 +1,6 @@
 '''
 Grupo 1
-Integrantes: Javier Artale-
+Integrantes: Javier Artale- Ruiz Hernan- 
 
 '''
 #Ejercicio 1
