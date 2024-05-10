@@ -2,7 +2,7 @@
 import os
 from lib.Funciones import agregar_tarea, eliminar_tarea, mostrar_tareas
 
-#Se establece una funcion principal (C++ s2)
+#Se establece una funcion principal 
 def main():
     
     #Limpieza de la consola
